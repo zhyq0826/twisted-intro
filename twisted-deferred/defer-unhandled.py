@@ -10,3 +10,5 @@ d.addCallback(callback)
 d.callback('Here is your result.')
 
 print "Finished"
+
+import time
